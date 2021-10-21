@@ -1,0 +1,670 @@
+﻿{
+  "Pages": [
+    {
+      "Height": 3508.0,
+      "Width": 2480.0,
+      "Elements": [
+        {
+          "Type": "Grid",
+          "lI": 0,
+          "Elements": [
+            {
+              "Type": "ChoiceBox",
+              "Multiselect": false,
+              "BubbleWidth": 70.0,
+              "BubbleHeight": 70.0,
+              "lt": 0,
+              "AlignedHorizontally": false,
+              "AlignedVertically": false,
+              "Bubbles": [
+                {
+                  "Value": "0",
+                  "Top": 506.0,
+                  "Left": 337.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "1",
+                  "Top": 588.0,
+                  "Left": 337.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "2",
+                  "Top": 670.0,
+                  "Left": 337.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "3",
+                  "Top": 753.0,
+                  "Left": 337.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "4",
+                  "Top": 835.0,
+                  "Left": 337.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "5",
+                  "Top": 917.0,
+                  "Left": 337.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "6",
+                  "Top": 1000.0,
+                  "Left": 337.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "7",
+                  "Top": 1082.0,
+                  "Left": 337.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "8",
+                  "Top": 1165.0,
+                  "Left": 337.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "9",
+                  "Top": 1247.0,
+                  "Left": 337.0,
+                  "IsValid": true
+                }
+              ],
+              "Width": 75.0,
+              "Height": 818.5755615234375,
+              "Top": 504.19842529296875,
+              "Left": 335.4836730957031,
+              "Orientation": "Horizontal"
+            },
+            {
+              "Type": "ChoiceBox",
+              "Multiselect": false,
+              "BubbleWidth": 70.0,
+              "BubbleHeight": 70.0,
+              "lt": 0,
+              "AlignedHorizontally": false,
+              "AlignedVertically": false,
+              "Bubbles": [
+                {
+                  "Value": "0",
+                  "Top": 506.0,
+                  "Left": 412.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "1",
+                  "Top": 588.0,
+                  "Left": 412.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "2",
+                  "Top": 670.0,
+                  "Left": 412.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "3",
+                  "Top": 753.0,
+                  "Left": 412.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "4",
+                  "Top": 835.0,
+                  "Left": 412.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "5",
+                  "Top": 917.0,
+                  "Left": 412.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "6",
+                  "Top": 1000.0,
+                  "Left": 412.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "7",
+                  "Top": 1082.0,
+                  "Left": 412.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "8",
+                  "Top": 1165.0,
+                  "Left": 412.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "9",
+                  "Top": 1247.0,
+                  "Left": 412.0,
+                  "IsValid": true
+                }
+              ],
+              "Width": 75.0,
+              "Height": 818.5755615234375,
+              "Top": 504.19842529296875,
+              "Left": 410.4836730957031,
+              "Orientation": "Horizontal"
+            },
+            {
+              "Type": "ChoiceBox",
+              "Multiselect": false,
+              "BubbleWidth": 70.0,
+              "BubbleHeight": 70.0,
+              "lt": 0,
+              "AlignedHorizontally": false,
+              "AlignedVertically": false,
+              "Bubbles": [
+                {
+                  "Value": "0",
+                  "Top": 506.0,
+                  "Left": 487.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "1",
+                  "Top": 588.0,
+                  "Left": 487.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "2",
+                  "Top": 670.0,
+                  "Left": 487.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "3",
+                  "Top": 753.0,
+                  "Left": 487.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "4",
+                  "Top": 835.0,
+                  "Left": 487.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "5",
+                  "Top": 917.0,
+                  "Left": 487.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "6",
+                  "Top": 1000.0,
+                  "Left": 487.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "7",
+                  "Top": 1082.0,
+                  "Left": 487.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "8",
+                  "Top": 1165.0,
+                  "Left": 487.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "9",
+                  "Top": 1247.0,
+                  "Left": 487.0,
+                  "IsValid": true
+                }
+              ],
+              "Width": 75.0,
+              "Height": 818.5755615234375,
+              "Top": 504.19842529296875,
+              "Left": 485.4836730957031,
+              "Orientation": "Horizontal"
+            },
+            {
+              "Type": "ChoiceBox",
+              "Multiselect": false,
+              "BubbleWidth": 70.0,
+              "BubbleHeight": 70.0,
+              "lt": 0,
+              "AlignedHorizontally": false,
+              "AlignedVertically": false,
+              "Bubbles": [
+                {
+                  "Value": "0",
+                  "Top": 506.0,
+                  "Left": 562.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "1",
+                  "Top": 588.0,
+                  "Left": 562.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "2",
+                  "Top": 670.0,
+                  "Left": 562.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "3",
+                  "Top": 753.0,
+                  "Left": 562.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "4",
+                  "Top": 835.0,
+                  "Left": 562.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "5",
+                  "Top": 917.0,
+                  "Left": 562.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "6",
+                  "Top": 1000.0,
+                  "Left": 562.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "7",
+                  "Top": 1082.0,
+                  "Left": 562.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "8",
+                  "Top": 1165.0,
+                  "Left": 562.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "9",
+                  "Top": 1247.0,
+                  "Left": 562.0,
+                  "IsValid": true
+                }
+              ],
+              "Width": 75.0,
+              "Height": 818.5755615234375,
+              "Top": 504.19842529296875,
+              "Left": 560.483642578125,
+              "Orientation": "Horizontal"
+            },
+            {
+              "Type": "ChoiceBox",
+              "Multiselect": false,
+              "BubbleWidth": 70.0,
+              "BubbleHeight": 70.0,
+              "lt": 0,
+              "AlignedHorizontally": false,
+              "AlignedVertically": false,
+              "Bubbles": [
+                {
+                  "Value": "0",
+                  "Top": 506.0,
+                  "Left": 637.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "1",
+                  "Top": 588.0,
+                  "Left": 637.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "2",
+                  "Top": 670.0,
+                  "Left": 637.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "3",
+                  "Top": 753.0,
+                  "Left": 637.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "4",
+                  "Top": 835.0,
+                  "Left": 637.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "5",
+                  "Top": 917.0,
+                  "Left": 637.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "6",
+                  "Top": 1000.0,
+                  "Left": 637.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "7",
+                  "Top": 1082.0,
+                  "Left": 637.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "8",
+                  "Top": 1165.0,
+                  "Left": 637.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "9",
+                  "Top": 1247.0,
+                  "Left": 637.0,
+                  "IsValid": true
+                }
+              ],
+              "Width": 75.0,
+              "Height": 818.5755615234375,
+              "Top": 504.19842529296875,
+              "Left": 635.483642578125,
+              "Orientation": "Horizontal"
+            },
+            {
+              "Type": "ChoiceBox",
+              "Multiselect": false,
+              "BubbleWidth": 70.0,
+              "BubbleHeight": 70.0,
+              "lt": 0,
+              "AlignedHorizontally": false,
+              "AlignedVertically": false,
+              "Bubbles": [
+                {
+                  "Value": "0",
+                  "Top": 506.0,
+                  "Left": 712.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "1",
+                  "Top": 588.0,
+                  "Left": 712.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "2",
+                  "Top": 670.0,
+                  "Left": 712.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "3",
+                  "Top": 753.0,
+                  "Left": 712.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "4",
+                  "Top": 835.0,
+                  "Left": 712.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "5",
+                  "Top": 917.0,
+                  "Left": 712.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "6",
+                  "Top": 1000.0,
+                  "Left": 712.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "7",
+                  "Top": 1082.0,
+                  "Left": 712.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "8",
+                  "Top": 1165.0,
+                  "Left": 712.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "9",
+                  "Top": 1247.0,
+                  "Left": 712.0,
+                  "IsValid": true
+                }
+              ],
+              "Width": 75.0,
+              "Height": 818.5755615234375,
+              "Top": 504.19842529296875,
+              "Left": 710.483642578125,
+              "Orientation": "Horizontal"
+            },
+            {
+              "Type": "ChoiceBox",
+              "Multiselect": false,
+              "BubbleWidth": 70.0,
+              "BubbleHeight": 70.0,
+              "lt": 0,
+              "AlignedHorizontally": false,
+              "AlignedVertically": false,
+              "Bubbles": [
+                {
+                  "Value": "0",
+                  "Top": 506.0,
+                  "Left": 787.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "1",
+                  "Top": 588.0,
+                  "Left": 787.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "2",
+                  "Top": 670.0,
+                  "Left": 787.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "3",
+                  "Top": 753.0,
+                  "Left": 787.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "4",
+                  "Top": 835.0,
+                  "Left": 787.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "5",
+                  "Top": 917.0,
+                  "Left": 787.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "6",
+                  "Top": 1000.0,
+                  "Left": 787.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "7",
+                  "Top": 1082.0,
+                  "Left": 787.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "8",
+                  "Top": 1165.0,
+                  "Left": 787.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "9",
+                  "Top": 1247.0,
+                  "Left": 787.0,
+                  "IsValid": true
+                }
+              ],
+              "Width": 75.0,
+              "Height": 818.5755615234375,
+              "Top": 504.19842529296875,
+              "Left": 785.483642578125,
+              "Orientation": "Horizontal"
+            },
+            {
+              "Type": "ChoiceBox",
+              "Multiselect": false,
+              "BubbleWidth": 70.0,
+              "BubbleHeight": 70.0,
+              "lt": 0,
+              "AlignedHorizontally": false,
+              "AlignedVertically": false,
+              "Bubbles": [
+                {
+                  "Value": "0",
+                  "Top": 506.0,
+                  "Left": 862.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "1",
+                  "Top": 588.0,
+                  "Left": 862.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "2",
+                  "Top": 670.0,
+                  "Left": 862.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "3",
+                  "Top": 753.0,
+                  "Left": 862.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "4",
+                  "Top": 835.0,
+                  "Left": 862.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "5",
+                  "Top": 917.0,
+                  "Left": 862.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "6",
+                  "Top": 1000.0,
+                  "Left": 862.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "7",
+                  "Top": 1082.0,
+                  "Left": 862.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "8",
+                  "Top": 1165.0,
+                  "Left": 862.0,
+                  "IsValid": true
+                },
+                {
+                  "Value": "9",
+                  "Top": 1247.0,
+                  "Left": 862.0,
+                  "IsValid": true
+                }
+              ],
+              "Width": 75.0,
+              "Height": 818.5755615234375,
+              "Top": 504.19842529296875,
+              "Left": 860.483642578125,
+              "Orientation": "Horizontal"
+            }
+          ],
+          "AlignedHorizontally": false,
+          "AlignedVertically": false,
+          "Name": "ID",
+          "Width": 610.0,
+          "Height": 828.5755615234375,
+          "Top": 501.19842529296875,
+          "Left": 332.4836730957031,
+          "Orientation": "Horizontal"
+        },
+        {
+          "Type": "ReferencePointElement",
+          "Name": "ReferencePoint0",
+          "Width": 125.0,
+          "Height": 125.0,
+          "Top": 24.0,
+          "Left": 24.0
+        },
+        {
+          "Type": "ReferencePointElement",
+          "Name": "ReferencePoint1",
+          "Width": 125.0,
+          "Height": 125.0,
+          "Top": 24.0,
+          "Left": 2331.0
+        },
+        {
+          "Type": "ReferencePointElement",
+          "Name": "ReferencePoint2",
+          "Width": 125.0,
+          "Height": 125.0,
+          "Top": 3359.0,
+          "Left": 24.0
+        },
+        {
+          "Type": "ReferencePointElement",
+          "Name": "ReferencePoint3",
+          "Width": 125.0,
+          "Height": 125.0,
+          "Top": 3359.0,
+          "Left": 2331.0
+        }
+      ],
+      "ImageFormat": ".png"
+    }
+  ],
+  "Version": "1.0",
+  "Name": "MyTemplate",
+  "TemplateId": "",
+  "FinalizationComplete": false,
+  "IsGenerated": true
+}
