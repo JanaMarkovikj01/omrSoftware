@@ -10,8 +10,8 @@ public class GenerateOMRTemplate {
 
     public void GenerateTemplate() {
         String sourceDirectory = "src/main/resources/";
-        String GenerationMarkup = sourceDirectory + "markup.txt";
-        String GenerationMarkupNoExt = "markup";
+        String GenerationMarkup = sourceDirectory + "exampleMarkup.txt";
+        String GenerationMarkupNoExt = "exampleMarkup";
         //String[] GenerationMarkups = new String[]{"markup.txt"};
         //String[] GenerationMarkupsNoExt = new String[]{"markup"};
 
